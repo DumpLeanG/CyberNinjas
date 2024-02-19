@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+User-agent: Yandex
+Allow: /
+Disallow: /admin
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+
+Sitemap: http://isipmdui.beget.tech/sitemap.xml
